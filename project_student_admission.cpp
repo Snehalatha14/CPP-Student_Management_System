@@ -1,6 +1,7 @@
  # include <iostream>
 # include <fstream>
 # include <string>
+#include <cstdlib>
 using namespace std;
 void main_page();
 void Get_Student_Data();
